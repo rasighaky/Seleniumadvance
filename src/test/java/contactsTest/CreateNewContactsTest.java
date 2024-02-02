@@ -77,6 +77,7 @@ public class CreateNewContactsTest extends Day10BaseClass {
     public void sample1()
     {
     	System.out.println("hello");
+    	System.out.println("world");
     }
 	
 	/* //before base class
