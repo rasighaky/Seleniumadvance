@@ -1,5 +1,6 @@
 package contactsTest;
 
+// This is test commit
 import java.io.IOException;
 
 import org.openqa.selenium.WebDriver;
